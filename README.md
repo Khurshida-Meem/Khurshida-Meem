@@ -11,6 +11,11 @@
 
 
 ### Hi there 👋, It's Khurshida Jahan Meem
+
+---
+
+### :woman_technologist: About Me :
+
 I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I’m currently working on improving skills
