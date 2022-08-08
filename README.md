@@ -18,11 +18,12 @@
 
 I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m currently working on improving skills
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on MERN Stack/ React.Js
+- 🔭 I’m currently working as a React Developer Intern at Soft Solvers Solutions
+- 🌱 Exploring React.js and JavaScript
 - 💬 Ask me about any topic you know well cause I would love to learn about the topic 
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
+- :mailbox: How to reach me: meemrumi59@gmail.com
+
 
 <br/>
 
