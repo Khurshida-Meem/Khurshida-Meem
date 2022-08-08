@@ -29,13 +29,6 @@ I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/
 
 
 <br/>
-
-### Connect with me:
-
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://khurshida-meem.netlify.app/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khurshida-meem/)
-
-<br />
 <br/>
 
 ### Languages and Tools:
