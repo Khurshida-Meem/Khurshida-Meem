@@ -66,7 +66,7 @@ I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khurshida-Meem&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khurshida-Meem&theme=github-dark)]
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khurshida-Meem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khurshida-Meem&layout=compact&theme=vision-friendly-dark)]
 
