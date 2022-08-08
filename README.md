@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Khurshida-Meem&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Khurshida-Meem&style=flat-square&color=red" alt=""/>
 
 
 ### Hi there 👋, It's Khurshida Jahan Meem
