@@ -11,6 +11,7 @@
 
 
 ### Hi there 👋, It's Khurshida Jahan Meem
+I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I’m currently working on improving skills
 - 🌱 I’m currently learning JavaScript
