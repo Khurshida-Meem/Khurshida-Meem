@@ -6,3 +6,13 @@
 - 💬 Ask me about any topic you know well cause I would love to learn about the topic 
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
 
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://khurshida-meem.netlify.app/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khurshida-meem/)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/khurshida.meem/)
+
+<br />
+<br/>
