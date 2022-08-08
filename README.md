@@ -53,6 +53,8 @@ I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40" />&nbsp;
+          
           
           
           
