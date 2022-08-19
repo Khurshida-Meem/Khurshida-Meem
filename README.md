@@ -23,7 +23,6 @@ I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/
 
 - 🔭 I’m currently working as a React Developer Intern at Soft Solvers Solutions
 - 🌱 Exploring React.js and JavaScript
-- 💬 Ask me about any topic you know well cause I would love to learn about the topic 
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
 - :mailbox: How to reach me: meemrumi59@gmail.com
 
