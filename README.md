@@ -21,8 +21,8 @@
 
 I am a Full Stack Developer(MERN Stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m currently working as a React Developer Intern at Soft Solvers Solutions
-- 🌱 Exploring React.js and JavaScript
+- 🔭 I’m worked as a React Developer Intern at Soft Solvers Solutions
+- 🌱 Exploring React.js, JavaScript and Redux and looking for new opportunities
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
 - :mailbox: How to reach me: meemrumi59@gmail.com
 
