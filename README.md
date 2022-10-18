@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - 🔭 I worked as a React Developer Intern at Soft Solvers Solutions for 6 months
 - 🌱 Exploring React.js, JavaScript and Redux and looking for new opportunities
