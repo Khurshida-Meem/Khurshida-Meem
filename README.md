@@ -21,7 +21,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I worked as a React Developer Intern at Soft Solvers Solutions for 6 months
+- 🔭 Currently I am working as Frontend Software Developer at iBos Limited
 - 🌱 Exploring React.js, JavaScript and Redux and looking for new opportunities
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
 - :mailbox: How to reach me: meemrumi59@gmail.com
