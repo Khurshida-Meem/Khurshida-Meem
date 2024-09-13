@@ -19,10 +19,10 @@
 
 ### :woman_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 2+ years of experience from Bangladesh.
 
 - 🔭 Currently I am working as Frontend Software Developer at iBos Limited
-- 🌱 Exploring React.js, JavaScript and Redux and looking for new opportunities
+- 🌱 Exploring React.js, JavaScript and relevant libraries and frameworks alongside looking for new opportunities
 - ⚡ Fun fact: I came into the programming world accidently and continuing with pleasure
 - :mailbox: How to reach me: meemrumi59@gmail.com
 
